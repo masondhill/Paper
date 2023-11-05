@@ -6,7 +6,7 @@ Subject: [PATCH] Support Overriding World Seeds
 Allows you to add to paper.yml
 
 seed-overrides:
-  world_name: some seed value
+  world_name: Masons Java World
 
 This will ignore every where a seed is set/created/loaded and force
 a world to use the specified seed.
